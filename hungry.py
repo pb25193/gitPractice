@@ -1,7 +1,7 @@
-hungry = raw_input('are you hungry? \n')
+hungry = raw_input('are you thirsty? \n')
 if hungry == 'yes':
-    print('eat samosa')
-    print('eat pizza')
-    print('eat ravioli')
+    print('drink baily')
+    print('drink limoncello')
+    print('drink rat posoin')
 else:
     print('do your homework')
